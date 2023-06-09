@@ -1,0 +1,14 @@
+.form {
+    background-color:rgba(183, 0, 255, 0.474) ;
+    margin: auto;
+    padding:  2em;
+    border: 1px solid rgb(234, 255, 0);
+   
+    
+}
+@media screen and (max-width: 600px) {
+    .form {
+        background-color: rgb(255, 101, 101);
+    }
+}
+
